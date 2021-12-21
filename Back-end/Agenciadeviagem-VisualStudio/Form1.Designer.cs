@@ -1,7 +1,7 @@
 ﻿
 namespace Agenciadeviagem_VisualStudio
 {
-    partial class Form1
+    partial class Frm
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -29,10 +29,9 @@ namespace Agenciadeviagem_VisualStudio
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.SuspendLayout();
+            this.ResumeLayout(false);
+
         }
 
         #endregion
